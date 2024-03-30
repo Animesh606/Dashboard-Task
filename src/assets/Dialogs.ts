@@ -1,0 +1,68 @@
+const Dialogs = [
+    {
+        Name: 'tt',
+        Description: 'tt',
+        Updated: '11-08-2023',
+        Status: 'In Development',
+        details: false,
+        Draft: true,
+    },
+    {
+        Name: 'Fallback Task',
+        Description: 'Fallback Task',
+        Updated: '11-07-2023',
+        Status: 'In Development',
+        details: true,
+        Draft: false,
+    },
+    {
+        Name: 'Monitor Sales Growth',
+        Description: 'A flow that tracks the growth sales to help business...',
+        Updated: '11-07-2023',
+        Status: 'In Development',
+        details: false,
+        Draft: true,
+    },
+    {
+        Name: 'Optimize Lead Management',
+        Description: 'A flow that helps businesses improve the management...',
+        Updated: '11-07-2023',
+        Status: 'In Development',
+        details: false,
+        Draft: true,
+    },
+    {
+        Name: 'Track Lead Activity',
+        Description: 'A flow that tracks the activity of leads and prospects...',
+        Updated: '11-07-2023',
+        Status: 'In Development',
+        details: false,
+        Draft: true,
+    },
+    {
+        Name: 'Track Lead Engagement',
+        Description: 'A flow that tracks how leads are engaging with marage...',
+        Updated: '11-07-2023',
+        Status: 'In Development',
+        details: false,
+        Draft: true,
+    },
+    {
+        Name: 'View Request for Quote',
+        Description: 'Flow to allow user to view existing Request for Quotes...',
+        Updated: '11-07-2023',
+        Status: 'In Development',
+        details: false,
+        Draft: true,
+    },
+    {
+        Name: 'Welcome Task',
+        Description: 'Welcome Task',
+        Updated: '11-07-2023',
+        Status: 'In Development',
+        details: true,
+        Draft: false,
+    },
+];
+
+export default Dialogs;
